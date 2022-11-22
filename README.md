@@ -4,6 +4,11 @@
 <div id="header" align="center"><img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="100"/></div>
 
 ### 🔭 I’m currently working on my 4th project for my Full-Stack Developer Diploma. I'm creating a recipe blog!
+
+
+### 🌎 Find me on other platforms: 
+
+### 💬 Feel free to reach out to me on my social medias for any feedback/collabs! 
 <!--
 **jessicafransson/jessicafransson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
