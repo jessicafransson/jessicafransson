@@ -3,7 +3,7 @@
 
 <div id="header" align="center"><img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="100"/></div>
 
-### 🔭 I’m currently working on my 4th project for my Full-Stack Developer Diploma. I'm creating a recipe blog!
+### 🔭 I’m currently working on my 5th project for my Full-Stack Developer Diploma. I'm creating a online coffee shop!
 
 
 ### 🌎 Find me on other platforms: 
