@@ -11,7 +11,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
 
-- :telescope: I’m a Full Stack Software Developer currently developing my own portfolio.
+- :telescope: I’m a Full Stack Software Developer currently diving deep into React by developing my own portfolio.
 
 - :seedling: Exploring and learning new languages and skills.
 
